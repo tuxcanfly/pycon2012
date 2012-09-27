@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Hello
+_Comment=Hello application
+Categories=GNOME;Utility;
+Exec=hello
+Icon=hello
+Terminal=false
+Type=Application
